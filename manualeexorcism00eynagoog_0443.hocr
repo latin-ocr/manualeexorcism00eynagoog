@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./manualeexorcism00eynagoog_0443.png"; bbox 0 0 490 871; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 600 452 712">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 258 600 452 620">
+     <span class='ocr_line' id='line_1_1' title="bbox 258 600 452 620; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 258 602 348 620; x_wconf 77' lang='lat' dir='ltr'>christum</span> <span class='ocrx_word' id='word_1_2' title='bbox 353 600 417 620; x_wconf 75' lang='lat' dir='ltr'>Filsum</span> <span class='ocrx_word' id='word_1_3' title='bbox 422 607 452 620; x_wconf 87' lang='lat' dir='ltr'>tuu</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 257 625 452 650">
+     <span class='ocr_line' id='line_1_2' title="bbox 257 625 452 650; baseline -0.005 -6"><span class='ocrx_word' id='word_1_4' title='bbox 257 626 307 645; x_wconf 81' lang='lat' dir='ltr'>uit&amp;</span> <span class='ocrx_word' id='word_1_5' title='bbox 316 632 378 650; x_wconf 72' lang='lat' dir='ltr'>regnat</span> <span class='ocrx_word' id='word_1_6' title='bbox 386 626 405 645; x_wconf 89' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 410 625 452 644; x_wconf 70' lang='lat' dir='ltr'>vnitz</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 242 650 452 712">
+     <span class='ocr_line' id='line_1_3' title="bbox 255 650 452 676; baseline -0.02 -5"><span class='ocrx_word' id='word_1_8' title='bbox 255 651 308 676; x_wconf 74' lang='lat' dir='ltr'>Deus</span> <span class='ocrx_word' id='word_1_9' title='bbox 321 663 328 673; x_wconf 90' lang='lat'><strong>‚</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 340 657 372 676; x_wconf 81' lang='lat' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_11' title='bbox 383 650 452 670; x_wconf 65' lang='lat' dir='ltr'>omnin·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 242 677 383 712; baseline -0.007 -15"><span class='ocrx_word' id='word_1_12' title='bbox 242 677 297 711; x_wconf 28' lang='lat' dir='ltr'>vyllesp,</span> <span class='ocrx_word' id='word_1_13' title='bbox 308 677 383 712; x_wconf 26' lang='lat' dir='ltr'>‘Amen</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
